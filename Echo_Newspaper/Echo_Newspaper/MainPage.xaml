@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Echo_Newspaper.MainPage"
+             BackgroundColor="Bisque">
+
+    <ContentPage.Content>
+        <ListView  x:Name="listView" RowHeight="90">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal" HorizontalOptions="Fill" BackgroundColor="Tan">
+                            <Image Source="C:\Users\tparr\Documents\Visual Studio 2017\Projects\Echo_Newspaper\Echo_Newspaper\Echo_Newspaper\Headshot.jpg" HorizontalOptions="Start" AbsoluteLayout.LayoutBounds=".5, .5, 400, 40" Margin="3"/>
+                            <StackLayout Orientation="Vertical">
+                                <Label Text = "{Binding Title}" HorizontalOptions="StartAndExpand" FontSize="24" AbsoluteLayout.LayoutBounds="0.25, 0.25, 400, 40"/>
+                                <Label Text = "{Binding Date}" HorizontalOptions="StartAndExpand" AbsoluteLayout.LayoutBounds="50, 35, 200, 25"/>
+                            </StackLayout>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </ContentPage.Content>
+
+</ContentPage>
