@@ -13,9 +13,9 @@ namespace Echo_Newspaper
 
 		    Articles = new ObservableCollection<ArticleViewModel>
 		    {
-		        new ArticleViewModel {Title = "Title1", Date = "Today", Image = @"C:\Users\tparr\Documents\Visual Studio 2017\Projects\Echo_Newspaper\Echo_Newspaper\Echo_Newspaper\Headshot.jpg"},
-		        new ArticleViewModel {Title = "Title2", Date = "Yesterday", Image = "No Image"},
-		        new ArticleViewModel {Title = "Title3", Date = "2 Days Ago", Image = "No Image"}
+		        new ArticleViewModel {Title = "De-stressing throughout dead week", Date = "Today", Description = "Meet this week's winnersCongratulations to freshman Emily Klingstein for first place!   In second...",Image = "Headshot.jpg"},
+		        new ArticleViewModel {Title = "The Great Christmas Tree Contest", Date = "Yesterday", Description = "Counseling Center organizes activities to help decrease stressBy Chin Yi Oh | Echo The Counseling Center...", Image = "Headshot.jpg"},
+		        new ArticleViewModel {Title = "The Echo wins two HSPA awards", Date = "2 Days Ago", Description = "Echo Last weekend, the staff members of The Echo represented Taylor at the Hoosier...", Image = "Headshot.jpg"}
 		    };
 
 		    listView.ItemsSource = Articles;

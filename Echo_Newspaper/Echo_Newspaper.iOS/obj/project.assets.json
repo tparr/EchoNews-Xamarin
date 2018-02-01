@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "Xamarin.iOS,Version=v1.0": {
-      "Xamarin.Forms/2.5.0.121934": {
+      "Xamarin.Forms/2.5.0.122203": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -139,7 +139,7 @@
       }
     },
     "Xamarin.iOS,Version=v1.0/win": {
-      "Xamarin.Forms/2.5.0.121934": {
+      "Xamarin.Forms/2.5.0.122203": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -276,7 +276,7 @@
       }
     },
     "Xamarin.iOS,Version=v1.0/win-x64": {
-      "Xamarin.Forms/2.5.0.121934": {
+      "Xamarin.Forms/2.5.0.122203": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -413,7 +413,7 @@
       }
     },
     "Xamarin.iOS,Version=v1.0/win-x86": {
-      "Xamarin.Forms/2.5.0.121934": {
+      "Xamarin.Forms/2.5.0.122203": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -551,10 +551,10 @@
     }
   },
   "libraries": {
-    "Xamarin.Forms/2.5.0.121934": {
-      "sha512": "H3Gh6nvximMk9i8LdfhPnARo+kEsh8hDXWRboiUPb1r22gkIGA8i8tbnRcSXJWk4fCW/kdMTom6SFN0L+NhItw==",
+    "Xamarin.Forms/2.5.0.122203": {
+      "sha512": "qg7A2IXbVV/5u9qqeiDhRMwpVEsbWKBxzeAtD0rTuntmaDB1Z7WuBg5IK2VBklJbKe2Ps8V9zBfEwgJIqPVJUw==",
       "type": "package",
-      "path": "xamarin.forms/2.5.0.121934",
+      "path": "xamarin.forms/2.5.0.122203",
       "files": [
         "build/netstandard1.0/Mono.Cecil.Mdb.dll",
         "build/netstandard1.0/Mono.Cecil.Pdb.dll",
@@ -729,7 +729,7 @@
         "lib/wpa81/Xamarin.Forms.Platform.dll",
         "lib/wpa81/Xamarin.Forms.Xaml.dll",
         "lib/wpa81/Xamarin.Forms.Xaml.xml",
-        "xamarin.forms.2.5.0.121934.nupkg.sha512",
+        "xamarin.forms.2.5.0.122203.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
     },
@@ -746,7 +746,7 @@
   },
   "projectFileDependencyGroups": {
     "Xamarin.iOS,Version=v1.0": [
-      "Xamarin.Forms >= 2.5.0.121934",
+      "Xamarin.Forms >= 2.5.0.122203",
       "XamarinForms.CardView >= 1.1.1.1"
     ]
   },
@@ -785,7 +785,7 @@
         "dependencies": {
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "[2.5.0.121934, )"
+            "version": "[2.5.0.122203, )"
           },
           "XamarinForms.CardView": {
             "target": "Package",

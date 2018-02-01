@@ -27,6 +27,10 @@ C:\Users\tparr\Documents\Visual Studio 2017\Projects\Echo_Newspaper\Echo_Newspap
 C:\Users\tparr\Documents\Visual Studio 2017\Projects\Echo_Newspaper\Echo_Newspaper\Echo_Newspaper.Android\obj\Debug\res\layout\tabbar.xml
 C:\Users\tparr\Documents\Visual Studio 2017\Projects\Echo_Newspaper\Echo_Newspaper\Echo_Newspaper.Android\obj\Debug\res\layout\toolbar.xml
 C:\Users\tparr\Documents\Visual Studio 2017\Projects\Echo_Newspaper\Echo_Newspaper\Echo_Newspaper.Android\obj\Debug\res\values\styles.xml
+C:\Users\tparr\Documents\Visual Studio 2017\Projects\Echo_Newspaper\Echo_Newspaper\Echo_Newspaper.Android\obj\Debug\res\drawable-hdpi\headshot.jpg
+C:\Users\tparr\Documents\Visual Studio 2017\Projects\Echo_Newspaper\Echo_Newspaper\Echo_Newspaper.Android\obj\Debug\res\drawable-xhdpi\headshot.jpg
+C:\Users\tparr\Documents\Visual Studio 2017\Projects\Echo_Newspaper\Echo_Newspaper\Echo_Newspaper.Android\obj\Debug\res\drawable-xxhdpi\headshot.jpg
+C:\Users\tparr\Documents\Visual Studio 2017\Projects\Echo_Newspaper\Echo_Newspaper\Echo_Newspaper.Android\obj\Debug\res\drawable\headshot.jpg
 C:\Users\tparr\Documents\Visual Studio 2017\Projects\Echo_Newspaper\Echo_Newspaper\Echo_Newspaper.Android\obj\Debug\R.cs.flag
 C:\Users\tparr\Documents\Visual Studio 2017\Projects\Echo_Newspaper\Echo_Newspaper\Echo_Newspaper.Android\obj\Debug\uploadflags.txt
 C:\Users\tparr\Documents\Visual Studio 2017\Projects\Echo_Newspaper\Echo_Newspaper\Echo_Newspaper.Android\bin\Debug\Echo_Newspaper.Android.dll.mdb
@@ -39,7 +43,6 @@ C:\Users\tparr\Documents\Visual Studio 2017\Projects\Echo_Newspaper\Echo_Newspap
 C:\Users\tparr\Documents\Visual Studio 2017\Projects\Echo_Newspaper\Echo_Newspaper\Echo_Newspaper.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\tparr\Documents\Visual Studio 2017\Projects\Echo_Newspaper\Echo_Newspaper\Echo_Newspaper.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\tparr\Documents\Visual Studio 2017\Projects\Echo_Newspaper\Echo_Newspaper\Echo_Newspaper.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
-C:\Users\tparr\Documents\Visual Studio 2017\Projects\Echo_Newspaper\Echo_Newspaper\Echo_Newspaper.Android\obj\Debug\Echo_Newspaper.Android.csprojResolveAssemblyReference.cache
 C:\Users\tparr\Documents\Visual Studio 2017\Projects\Echo_Newspaper\Echo_Newspaper\Echo_Newspaper.Android\bin\Debug\Echo_Newspaper.Android.dll
 bin\Debug\FormsViewGroup.dll.mdb
 bin\Debug\Xamarin.Forms.Core.dll.mdb

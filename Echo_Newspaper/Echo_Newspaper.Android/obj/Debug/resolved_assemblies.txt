@@ -8,6 +8,9 @@ C:\Users\tparr\Documents\Visual Studio 2017\Projects\Echo_Newspaper\Echo_Newspap
 C:\Users\tparr\Documents\Visual Studio 2017\Projects\Echo_Newspaper\Echo_Newspaper\Echo_Newspaper.Android\obj\Debug\android\assets\System.Runtime.dll
 C:\Users\tparr\Documents\Visual Studio 2017\Projects\Echo_Newspaper\Echo_Newspaper\Echo_Newspaper.Android\obj\Debug\android\assets\System.Xml.dll
 C:\Users\tparr\Documents\Visual Studio 2017\Projects\Echo_Newspaper\Echo_Newspaper\Echo_Newspaper.Android\obj\Debug\android\assets\System.Xml.Linq.dll
+C:\Users\tparr\Documents\Visual Studio 2017\Projects\Echo_Newspaper\Echo_Newspaper\Echo_Newspaper.Android\obj\Debug\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\tparr\Documents\Visual Studio 2017\Projects\Echo_Newspaper\Echo_Newspaper\Echo_Newspaper.Android\obj\Debug\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\tparr\Documents\Visual Studio 2017\Projects\Echo_Newspaper\Echo_Newspaper\Echo_Newspaper.Android\obj\Debug\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
 C:\Users\tparr\Documents\Visual Studio 2017\Projects\Echo_Newspaper\Echo_Newspaper\Echo_Newspaper.Android\obj\Debug\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
 C:\Users\tparr\Documents\Visual Studio 2017\Projects\Echo_Newspaper\Echo_Newspaper\Echo_Newspaper.Android\obj\Debug\android\assets\Xamarin.Android.Support.Annotations.dll
 C:\Users\tparr\Documents\Visual Studio 2017\Projects\Echo_Newspaper\Echo_Newspaper\Echo_Newspaper.Android\obj\Debug\android\assets\Xamarin.Android.Support.Compat.dll

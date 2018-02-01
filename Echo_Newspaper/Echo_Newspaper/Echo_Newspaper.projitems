@@ -21,7 +21,4 @@
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
-  <ItemGroup>
-    <Content Include="$(MSBuildThisFileDirectory)Headshot.jpg" />
-  </ItemGroup>
 </Project>
